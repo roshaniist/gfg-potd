@@ -4,3 +4,4 @@
 | 2 | [Lexicographically smallest after removing k](https://www.geeksforgeeks.org/problems/lexicographically-smallest-after-removing-k/1) | GeeksForGeeks | Medium | 05 Jun 2026 | 05:29 pm |
 | 3 | [Substring with Max Zero-One Diff](https://www.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1) | GeeksForGeeks | Medium | 05 Jun 2026 | 05:31 pm |
 | 4 | [Max Product Subset](https://www.geeksforgeeks.org/problems/maximum-product-subset-of-an-array/1) | GeeksForGeeks | Medium | 05 Jun 2026 | 05:48 pm |
+| 5 | [Happy Number](https://leetcode.com/problems/happy-number/) | LeetCode | Easy | 05 Jun 2026 | 05:51 pm |
