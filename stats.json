@@ -1,12 +1,12 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-06-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
@@ -16,11 +16,12 @@
     "GeeksForGeeks_Substring_with_Max_Zero-One_Diff": true,
     "GeeksForGeeks_Max_Product_Subset": true,
     "LeetCode_Happy_Number": true,
-    "GeeksForGeeks_Non-Attacking_Black_and_White_Knights": true
+    "GeeksForGeeks_Non-Attacking_Black_and_White_Knights": true,
+    "LeetCode_Total_Waviness_of_Numbers_in_Range_I": true
   },
   "activityHistory": {
     "2026-06-05": 5,
-    "2026-06-06": 1
+    "2026-06-06": 2
   },
   "todayProblems": [
     "Missing in Array",
@@ -28,6 +29,7 @@
     "Substring with Max Zero-One Diff",
     "Max Product Subset",
     "Happy Number",
-    "Non-Attacking Black and White Knights"
+    "Non-Attacking Black and White Knights",
+    "Total Waviness of Numbers in Range I"
   ]
 }

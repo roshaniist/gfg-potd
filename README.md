@@ -6,3 +6,4 @@
 | 4 | [Max Product Subset](https://www.geeksforgeeks.org/problems/maximum-product-subset-of-an-array/1) | GeeksForGeeks | Medium | 05 Jun 2026 | 05:48 pm |
 | 5 | [Happy Number](https://leetcode.com/problems/happy-number/) | LeetCode | Easy | 05 Jun 2026 | 05:51 pm |
 | 6 | [Non-Attacking Black and White Knights](https://www.geeksforgeeks.org/problems/black-and-white-1587115620/1) | GeeksForGeeks | Medium | 06 Jun 2026 | 12:26 am |
+| 7 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | LeetCode | Medium | 06 Jun 2026 | 12:32 am |
