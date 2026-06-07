@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-06-06",
-  "todayCount": 2,
+  "totalSolved": 8,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-06-07",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -17,11 +17,13 @@
     "GeeksForGeeks_Max_Product_Subset": true,
     "LeetCode_Happy_Number": true,
     "GeeksForGeeks_Non-Attacking_Black_and_White_Knights": true,
-    "LeetCode_Total_Waviness_of_Numbers_in_Range_I": true
+    "LeetCode_Total_Waviness_of_Numbers_in_Range_I": true,
+    "GeeksForGeeks_Finding_Profession": true
   },
   "activityHistory": {
     "2026-06-05": 5,
-    "2026-06-06": 2
+    "2026-06-06": 2,
+    "2026-06-07": 1
   },
   "todayProblems": [
     "Missing in Array",
@@ -30,6 +32,7 @@
     "Max Product Subset",
     "Happy Number",
     "Non-Attacking Black and White Knights",
-    "Total Waviness of Numbers in Range I"
+    "Total Waviness of Numbers in Range I",
+    "Finding Profession"
   ]
 }
