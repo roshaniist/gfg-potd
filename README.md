@@ -9,3 +9,4 @@
 | 7 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | LeetCode | Medium | 06 Jun 2026 | 12:32 am |
 | 8 | [Finding Profession](https://www.geeksforgeeks.org/problems/finding-profession3834/1) | GeeksForGeeks | Medium | 07 Jun 2026 | 09:35 am |
 | 9 | [Delete Nodes with Greater on Right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 07:56 am |
+| 10 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | LeetCode | Easy | 08 Jun 2026 | 08:00 am |

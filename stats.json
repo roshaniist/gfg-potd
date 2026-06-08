@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-06-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 7,
     "hard": 0,
     "basic": 0
@@ -19,13 +19,14 @@
     "GeeksForGeeks_Non-Attacking_Black_and_White_Knights": true,
     "LeetCode_Total_Waviness_of_Numbers_in_Range_I": true,
     "GeeksForGeeks_Finding_Profession": true,
-    "GeeksForGeeks_Delete_Nodes_with_Greater_on_Right": true
+    "GeeksForGeeks_Delete_Nodes_with_Greater_on_Right": true,
+    "LeetCode_Left_and_Right_Sum_Differences": true
   },
   "activityHistory": {
     "2026-06-05": 5,
     "2026-06-06": 2,
     "2026-06-07": 1,
-    "2026-06-08": 1
+    "2026-06-08": 2
   },
   "todayProblems": [
     "Missing in Array",
@@ -36,6 +37,7 @@
     "Non-Attacking Black and White Knights",
     "Total Waviness of Numbers in Range I",
     "Finding Profession",
-    "Delete Nodes with Greater on Right"
+    "Delete Nodes with Greater on Right",
+    "Left and Right Sum Differences"
   ]
 }
