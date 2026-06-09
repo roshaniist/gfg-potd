@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-06-08",
-  "todayCount": 3,
+  "totalSolved": 12,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-06-09",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -21,13 +21,15 @@
     "GeeksForGeeks_Finding_Profession": true,
     "GeeksForGeeks_Delete_Nodes_with_Greater_on_Right": true,
     "LeetCode_Left_and_Right_Sum_Differences": true,
-    "LeetCode_Partition_Array_According_to_Given_Pivot": true
+    "LeetCode_Partition_Array_According_to_Given_Pivot": true,
+    "GeeksForGeeks_Seating_Arrangement": true
   },
   "activityHistory": {
     "2026-06-05": 5,
     "2026-06-06": 2,
     "2026-06-07": 1,
-    "2026-06-08": 3
+    "2026-06-08": 3,
+    "2026-06-09": 1
   },
   "todayProblems": [
     "Missing in Array",
@@ -40,6 +42,7 @@
     "Finding Profession",
     "Delete Nodes with Greater on Right",
     "Left and Right Sum Differences",
-    "Partition Array According to Given Pivot"
+    "Partition Array According to Given Pivot",
+    "Seating Arrangement"
   ]
 }

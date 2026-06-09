@@ -11,3 +11,4 @@
 | 9 | [Delete Nodes with Greater on Right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | GeeksForGeeks | Medium | 08 Jun 2026 | 07:56 am |
 | 10 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | LeetCode | Easy | 08 Jun 2026 | 08:00 am |
 | 11 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | LeetCode | Medium | 08 Jun 2026 | 08:05 am |
+| 12 | [Seating Arrangement](https://www.geeksforgeeks.org/problems/seating-arrangement--170647/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:49 am |
