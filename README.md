@@ -12,3 +12,4 @@
 | 10 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | LeetCode | Easy | 08 Jun 2026 | 08:00 am |
 | 11 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | LeetCode | Medium | 08 Jun 2026 | 08:05 am |
 | 12 | [Seating Arrangement](https://www.geeksforgeeks.org/problems/seating-arrangement--170647/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:49 am |
+| 13 | [Binary Searchable Count](https://www.geeksforgeeks.org/problems/binary-searchable-elements/1?_gl=1*1rol2ap*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw857RBhAgEiwAI-1yKG1BL2RWwesrkYq_f7SkOI-rINCg4olZp6eqHIWgGZN86XoJcmJ0xhoCo-YQAvD_BwE&gbraid=0AAAAAC9yBkAS7g3ABBBSTI4opWezd8rGe) | GeeksForGeeks | Medium | 10 Jun 2026 | 07:40 am |

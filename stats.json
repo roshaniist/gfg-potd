@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-06-09",
+  "totalSolved": 13,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-06-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 0
   },
@@ -22,14 +22,16 @@
     "GeeksForGeeks_Delete_Nodes_with_Greater_on_Right": true,
     "LeetCode_Left_and_Right_Sum_Differences": true,
     "LeetCode_Partition_Array_According_to_Given_Pivot": true,
-    "GeeksForGeeks_Seating_Arrangement": true
+    "GeeksForGeeks_Seating_Arrangement": true,
+    "GeeksForGeeks_Binary_Searchable_Count": true
   },
   "activityHistory": {
     "2026-06-05": 5,
     "2026-06-06": 2,
     "2026-06-07": 1,
     "2026-06-08": 3,
-    "2026-06-09": 1
+    "2026-06-09": 1,
+    "2026-06-10": 1
   },
   "todayProblems": [
     "Missing in Array",
@@ -43,6 +45,7 @@
     "Delete Nodes with Greater on Right",
     "Left and Right Sum Differences",
     "Partition Array According to Given Pivot",
-    "Seating Arrangement"
+    "Seating Arrangement",
+    "Binary Searchable Count"
   ]
 }
