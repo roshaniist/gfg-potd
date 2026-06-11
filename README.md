@@ -14,3 +14,4 @@
 | 12 | [Seating Arrangement](https://www.geeksforgeeks.org/problems/seating-arrangement--170647/1) | GeeksForGeeks | Medium | 09 Jun 2026 | 09:49 am |
 | 13 | [Binary Searchable Count](https://www.geeksforgeeks.org/problems/binary-searchable-elements/1?_gl=1*1rol2ap*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw857RBhAgEiwAI-1yKG1BL2RWwesrkYq_f7SkOI-rINCg4olZp6eqHIWgGZN86XoJcmJ0xhoCo-YQAvD_BwE&gbraid=0AAAAAC9yBkAS7g3ABBBSTI4opWezd8rGe) | GeeksForGeeks | Medium | 10 Jun 2026 | 07:40 am |
 | 14 | [Maximum Total Subarray Value II](./LeetCode/Hard/Maximum%20Total%20Subarray%20Value%20II) | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | 10 Jun 2026 | 07:48 pm |
+| 15 | [Equal Point in Brackets](./GeeksForGeeks/Easy/Equal%20Point%20in%20Brackets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1) | Easy | 11 Jun 2026 | 08:11 am |
