@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-06-11",
-  "todayCount": 2,
+  "totalSolved": 17,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-06-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 0
   },
@@ -26,7 +26,8 @@
     "GeeksForGeeks_Binary_Searchable_Count": true,
     "LeetCode_Maximum_Total_Subarray_Value_II": true,
     "GeeksForGeeks_Equal_Point_in_Brackets": true,
-    "LeetCode_Number_of_Ways_to_Assign_Edge_Weights_I": true
+    "LeetCode_Number_of_Ways_to_Assign_Edge_Weights_I": true,
+    "GeeksForGeeks_Check_Repeated_Substring_with_K_Replacements": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -35,10 +36,10 @@
     "2026-06-08": 3,
     "2026-06-09": 1,
     "2026-06-10": 2,
-    "2026-06-11": 2
+    "2026-06-11": 2,
+    "2026-06-12": 1
   },
   "todayProblems": [
-    "Equal Point in Brackets",
-    "Number of Ways to Assign Edge Weights I"
+    "Check Repeated Substring with K Replacements"
   ]
 }

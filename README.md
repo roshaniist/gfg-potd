@@ -16,3 +16,4 @@
 | 14 | [Maximum Total Subarray Value II](./LeetCode/Hard/Maximum%20Total%20Subarray%20Value%20II) | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | 10 Jun 2026 | 07:48 pm |
 | 15 | [Equal Point in Brackets](./GeeksForGeeks/Easy/Equal%20Point%20in%20Brackets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1) | Easy | 11 Jun 2026 | 08:11 am |
 | 16 | [Number of Ways to Assign Edge Weights I](./LeetCode/Medium/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium | 11 Jun 2026 | 08:26 am |
+| 17 | [Check Repeated Substring with K Replacements](./GeeksForGeeks/Medium/Check%20Repeated%20Substring%20with%20K%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1) | Medium | 12 Jun 2026 | 03:11 pm |
