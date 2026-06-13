@@ -18,3 +18,4 @@
 | 16 | [Number of Ways to Assign Edge Weights I](./LeetCode/Medium/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium | 11 Jun 2026 | 08:26 am |
 | 17 | [Check Repeated Substring with K Replacements](./GeeksForGeeks/Medium/Check%20Repeated%20Substring%20with%20K%20Replacements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1) | Medium | 12 Jun 2026 | 03:11 pm |
 | 18 | [Binary Strings with Equal Sum of Two Halves](./GeeksForGeeks/Medium/Binary%20Strings%20with%20Equal%20Sum%20of%20Two%20Halves) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-even-length1907/1) | Medium | 13 Jun 2026 | 10:22 am |
+| 19 | [Weighted Word Mapping](./LeetCode/Easy/Weighted%20Word%20Mapping) | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | Easy | 13 Jun 2026 | 10:24 am |
