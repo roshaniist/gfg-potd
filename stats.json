@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-06-12",
+  "totalSolved": 18,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-06-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 0
   },
@@ -27,7 +27,8 @@
     "LeetCode_Maximum_Total_Subarray_Value_II": true,
     "GeeksForGeeks_Equal_Point_in_Brackets": true,
     "LeetCode_Number_of_Ways_to_Assign_Edge_Weights_I": true,
-    "GeeksForGeeks_Check_Repeated_Substring_with_K_Replacements": true
+    "GeeksForGeeks_Check_Repeated_Substring_with_K_Replacements": true,
+    "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -37,9 +38,10 @@
     "2026-06-09": 1,
     "2026-06-10": 2,
     "2026-06-11": 2,
-    "2026-06-12": 1
+    "2026-06-12": 1,
+    "2026-06-13": 1
   },
   "todayProblems": [
-    "Check Repeated Substring with K Replacements"
+    "Binary Strings with Equal Sum of Two Halves"
   ]
 }
