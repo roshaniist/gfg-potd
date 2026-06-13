@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-06-13",
-  "todayCount": 2,
+  "totalSolved": 20,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-06-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 0
   },
@@ -29,7 +29,8 @@
     "LeetCode_Number_of_Ways_to_Assign_Edge_Weights_I": true,
     "GeeksForGeeks_Check_Repeated_Substring_with_K_Replacements": true,
     "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true,
-    "LeetCode_Weighted_Word_Mapping": true
+    "LeetCode_Weighted_Word_Mapping": true,
+    "GeeksForGeeks_Exit_Point_in_a_Matrix": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -40,10 +41,10 @@
     "2026-06-10": 2,
     "2026-06-11": 2,
     "2026-06-12": 1,
-    "2026-06-13": 2
+    "2026-06-13": 2,
+    "2026-06-14": 1
   },
   "todayProblems": [
-    "Binary Strings with Equal Sum of Two Halves",
-    "Weighted Word Mapping"
+    "Exit Point in a Matrix"
   ]
 }
