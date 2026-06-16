@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 10,
   "lastSyncDate": "2026-06-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 0
   },
@@ -31,7 +31,8 @@
     "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true,
     "LeetCode_Weighted_Word_Mapping": true,
     "GeeksForGeeks_Exit_Point_in_a_Matrix": true,
-    "LeetCode_Process_String_with_Special_Operations_I": true
+    "LeetCode_Process_String_with_Special_Operations_I": true,
+    "LeetCode_Group_Anagrams": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -44,9 +45,10 @@
     "2026-06-12": 1,
     "2026-06-13": 2,
     "2026-06-14": 1,
-    "2026-06-16": 1
+    "2026-06-16": 2
   },
   "todayProblems": [
-    "Process String with Special Operations I"
+    "Process String with Special Operations I",
+    "Group Anagrams"
   ]
 }
