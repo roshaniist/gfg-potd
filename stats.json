@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 10,
+  "totalSolved": 21,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-06-14",
+  "lastSyncDate": "2026-06-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 14,
+    "medium": 15,
     "hard": 1,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "GeeksForGeeks_Check_Repeated_Substring_with_K_Replacements": true,
     "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true,
     "LeetCode_Weighted_Word_Mapping": true,
-    "GeeksForGeeks_Exit_Point_in_a_Matrix": true
+    "GeeksForGeeks_Exit_Point_in_a_Matrix": true,
+    "LeetCode_Process_String_with_Special_Operations_I": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -42,9 +43,10 @@
     "2026-06-11": 2,
     "2026-06-12": 1,
     "2026-06-13": 2,
-    "2026-06-14": 1
+    "2026-06-14": 1,
+    "2026-06-16": 1
   },
   "todayProblems": [
-    "Exit Point in a Matrix"
+    "Process String with Special Operations I"
   ]
 }

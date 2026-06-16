@@ -20,3 +20,4 @@
 | 18 | [Binary Strings with Equal Sum of Two Halves](./GeeksForGeeks/Medium/Binary%20Strings%20with%20Equal%20Sum%20of%20Two%20Halves) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-even-length1907/1) | Medium | 13 Jun 2026 | 10:22 am |
 | 19 | [Weighted Word Mapping](./LeetCode/Easy/Weighted%20Word%20Mapping) | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | Easy | 13 Jun 2026 | 10:24 am |
 | 20 | [Exit Point in a Matrix](./GeeksForGeeks/Medium/Exit%20Point%20in%20a%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/exit-point-in-a-matrix0905/1) | Medium | 14 Jun 2026 | 12:28 am |
+| 21 | [Process String with Special Operations I](./LeetCode/Medium/Process%20String%20with%20Special%20Operations%20I) | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium | 16 Jun 2026 | 09:26 am |
