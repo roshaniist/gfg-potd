@@ -23,3 +23,4 @@
 | 21 | [Process String with Special Operations I](./LeetCode/Medium/Process%20String%20with%20Special%20Operations%20I) | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium | 16 Jun 2026 | 09:26 am |
 | 22 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 16 Jun 2026 | 03:35 pm |
 | 23 | [Cut rope to maximise product](./GeeksForGeeks/Medium/Cut%20rope%20to%20maximise%20product) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-rope-cutting1312/1) | Medium | 17 Jun 2026 | 09:37 am |
+| 24 | [Process String with Special Operations II](./LeetCode/Hard/Process%20String%20with%20Special%20Operations%20II) | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | Hard | 17 Jun 2026 | 09:41 am |

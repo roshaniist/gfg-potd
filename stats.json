@@ -1,13 +1,13 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-06-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 17,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "syncedProblems": {
@@ -33,7 +33,8 @@
     "GeeksForGeeks_Exit_Point_in_a_Matrix": true,
     "LeetCode_Process_String_with_Special_Operations_I": true,
     "LeetCode_Group_Anagrams": true,
-    "GeeksForGeeks_Cut_rope_to_maximise_product": true
+    "GeeksForGeeks_Cut_rope_to_maximise_product": true,
+    "LeetCode_Process_String_with_Special_Operations_II": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -47,9 +48,10 @@
     "2026-06-13": 2,
     "2026-06-14": 1,
     "2026-06-16": 2,
-    "2026-06-17": 1
+    "2026-06-17": 2
   },
   "todayProblems": [
-    "Cut rope to maximise product"
+    "Cut rope to maximise product",
+    "Process String with Special Operations II"
   ]
 }
