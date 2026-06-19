@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
-  "currentStreak": 3,
+  "totalSolved": 27,
+  "currentStreak": 4,
   "maxStreak": 10,
-  "lastSyncDate": "2026-06-18",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 19,
+    "medium": 20,
     "hard": 2,
     "basic": 0
   },
@@ -36,7 +36,8 @@
     "GeeksForGeeks_Cut_rope_to_maximise_product": true,
     "LeetCode_Process_String_with_Special_Operations_II": true,
     "GeeksForGeeks_Coverage_of_all_Zeros_in_a_Binary_Matrix": true,
-    "LeetCode_Angle_Between_Hands_of_a_Clock": true
+    "LeetCode_Angle_Between_Hands_of_a_Clock": true,
+    "GeeksForGeeks_Equalize_All_Prefix_Sums": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -51,10 +52,10 @@
     "2026-06-14": 1,
     "2026-06-16": 2,
     "2026-06-17": 2,
-    "2026-06-18": 2
+    "2026-06-18": 2,
+    "2026-06-19": 1
   },
   "todayProblems": [
-    "Coverage of all Zeros in a Binary Matrix",
-    "Angle Between Hands of a Clock"
+    "Equalize All Prefix Sums"
   ]
 }
