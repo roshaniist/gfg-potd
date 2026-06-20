@@ -28,3 +28,4 @@
 | 26 | [Angle Between Hands of a Clock](./LeetCode/Medium/Angle%20Between%20Hands%20of%20a%20Clock) | [LeetCode](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | 18 Jun 2026 | 04:13 pm |
 | 27 | [Equalize All Prefix Sums](./GeeksForGeeks/Medium/Equalize%20All%20Prefix%20Sums) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/optimal-array--170647/1) | Medium | 19 Jun 2026 | 03:23 pm |
 | 28 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 19 Jun 2026 | 11:34 pm |
+| 29 | [Last Digit of a^b](./GeeksForGeeks/Medium/Last%20Digit%20of%20a%5Eb) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1) | Medium | 20 Jun 2026 | 10:23 am |

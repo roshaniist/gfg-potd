@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
-  "currentStreak": 4,
+  "totalSolved": 29,
+  "currentStreak": 5,
   "maxStreak": 10,
-  "lastSyncDate": "2026-06-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 20,
+    "medium": 21,
     "hard": 2,
     "basic": 0
   },
@@ -38,7 +38,8 @@
     "GeeksForGeeks_Coverage_of_all_Zeros_in_a_Binary_Matrix": true,
     "LeetCode_Angle_Between_Hands_of_a_Clock": true,
     "GeeksForGeeks_Equalize_All_Prefix_Sums": true,
-    "LeetCode_Find_the_Highest_Altitude": true
+    "LeetCode_Find_the_Highest_Altitude": true,
+    "GeeksForGeeks_Last_Digit_of_a^b": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -54,10 +55,10 @@
     "2026-06-16": 2,
     "2026-06-17": 2,
     "2026-06-18": 2,
-    "2026-06-19": 2
+    "2026-06-19": 2,
+    "2026-06-20": 1
   },
   "todayProblems": [
-    "Equalize All Prefix Sums",
-    "Find the Highest Altitude"
+    "Last Digit of a^b"
   ]
 }
