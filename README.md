@@ -30,3 +30,4 @@
 | 28 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 19 Jun 2026 | 11:34 pm |
 | 29 | [Last Digit of a^b](./GeeksForGeeks/Medium/Last%20Digit%20of%20a%5Eb) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1) | Medium | 20 Jun 2026 | 10:23 am |
 | 30 | [Maximum Building Height](./LeetCode/Hard/Maximum%20Building%20Height) | [LeetCode](https://leetcode.com/problems/maximum-building-height/) | Hard | 20 Jun 2026 | 07:29 pm |
+| 31 | [Choose and Swap](./GeeksForGeeks/Medium/Choose%20and%20Swap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/choose-and-swap0531/1) | Medium | 21 Jun 2026 | 10:10 am |

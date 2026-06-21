@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
-  "currentStreak": 5,
+  "totalSolved": 31,
+  "currentStreak": 6,
   "maxStreak": 10,
-  "lastSyncDate": "2026-06-20",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 21,
+    "medium": 22,
     "hard": 3,
     "basic": 0
   },
@@ -40,7 +40,8 @@
     "GeeksForGeeks_Equalize_All_Prefix_Sums": true,
     "LeetCode_Find_the_Highest_Altitude": true,
     "GeeksForGeeks_Last_Digit_of_a^b": true,
-    "LeetCode_Maximum_Building_Height": true
+    "LeetCode_Maximum_Building_Height": true,
+    "GeeksForGeeks_Choose_and_Swap": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -57,10 +58,10 @@
     "2026-06-17": 2,
     "2026-06-18": 2,
     "2026-06-19": 2,
-    "2026-06-20": 2
+    "2026-06-20": 2,
+    "2026-06-21": 1
   },
   "todayProblems": [
-    "Last Digit of a^b",
-    "Maximum Building Height"
+    "Choose and Swap"
   ]
 }
