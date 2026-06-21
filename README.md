@@ -31,3 +31,4 @@
 | 29 | [Last Digit of a^b](./GeeksForGeeks/Medium/Last%20Digit%20of%20a%5Eb) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1) | Medium | 20 Jun 2026 | 10:23 am |
 | 30 | [Maximum Building Height](./LeetCode/Hard/Maximum%20Building%20Height) | [LeetCode](https://leetcode.com/problems/maximum-building-height/) | Hard | 20 Jun 2026 | 07:29 pm |
 | 31 | [Choose and Swap](./GeeksForGeeks/Medium/Choose%20and%20Swap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/choose-and-swap0531/1) | Medium | 21 Jun 2026 | 10:10 am |
+| 32 | [Maximum Ice Cream Bars](./LeetCode/Medium/Maximum%20Ice%20Cream%20Bars) | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | 21 Jun 2026 | 10:59 pm |

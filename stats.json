@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 6,
   "maxStreak": 10,
   "lastSyncDate": "2026-06-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 22,
+    "medium": 23,
     "hard": 3,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "LeetCode_Find_the_Highest_Altitude": true,
     "GeeksForGeeks_Last_Digit_of_a^b": true,
     "LeetCode_Maximum_Building_Height": true,
-    "GeeksForGeeks_Choose_and_Swap": true
+    "GeeksForGeeks_Choose_and_Swap": true,
+    "LeetCode_Maximum_Ice_Cream_Bars": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -59,9 +60,10 @@
     "2026-06-18": 2,
     "2026-06-19": 2,
     "2026-06-20": 2,
-    "2026-06-21": 1
+    "2026-06-21": 2
   },
   "todayProblems": [
-    "Choose and Swap"
+    "Choose and Swap",
+    "Maximum Ice Cream Bars"
   ]
 }
