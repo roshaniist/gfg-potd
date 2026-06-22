@@ -1,11 +1,11 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 7,
   "maxStreak": 10,
   "lastSyncDate": "2026-06-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 24,
     "hard": 3,
     "basic": 0
@@ -43,7 +43,8 @@
     "LeetCode_Maximum_Building_Height": true,
     "GeeksForGeeks_Choose_and_Swap": true,
     "LeetCode_Maximum_Ice_Cream_Bars": true,
-    "GeeksForGeeks_Maximum_Area_Between_Bars": true
+    "GeeksForGeeks_Maximum_Area_Between_Bars": true,
+    "LeetCode_Maximum_Number_of_Balloons": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -62,9 +63,10 @@
     "2026-06-19": 2,
     "2026-06-20": 2,
     "2026-06-21": 2,
-    "2026-06-22": 1
+    "2026-06-22": 2
   },
   "todayProblems": [
-    "Maximum Area Between Bars"
+    "Maximum Area Between Bars",
+    "Maximum Number of Balloons"
   ]
 }
