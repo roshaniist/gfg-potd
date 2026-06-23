@@ -35,3 +35,4 @@
 | 33 | [Maximum Area Between Bars](./GeeksForGeeks/Medium/Maximum%20Area%20Between%20Bars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dam-of-candies--141631/1) | Medium | 22 Jun 2026 | 10:07 am |
 | 34 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 22 Jun 2026 | 10:57 am |
 | 35 | [Maximum Number of People Defeated](./GeeksForGeeks/Medium/Maximum%20Number%20of%20People%20Defeated) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/killing-spree3020/1) | Medium | 23 Jun 2026 | 11:32 am |
+| 36 | [Number of ZigZag Arrays I](./LeetCode/Hard/Number%20of%20ZigZag%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | Hard | 23 Jun 2026 | 06:43 pm |
