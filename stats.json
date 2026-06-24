@@ -1,13 +1,13 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 9,
   "maxStreak": 10,
   "lastSyncDate": "2026-06-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
     "medium": 26,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -47,7 +47,8 @@
     "LeetCode_Maximum_Number_of_Balloons": true,
     "GeeksForGeeks_Maximum_Number_of_People_Defeated": true,
     "LeetCode_Number_of_ZigZag_Arrays_I": true,
-    "GeeksForGeeks_Rat_Maze_With_Multiple_Jumps": true
+    "GeeksForGeeks_Rat_Maze_With_Multiple_Jumps": true,
+    "LeetCode_Number_of_ZigZag_Arrays_II": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -68,9 +69,10 @@
     "2026-06-21": 2,
     "2026-06-22": 2,
     "2026-06-23": 2,
-    "2026-06-24": 1
+    "2026-06-24": 2
   },
   "todayProblems": [
-    "Rat Maze With Multiple Jumps"
+    "Rat Maze With Multiple Jumps",
+    "Number of ZigZag Arrays II"
   ]
 }
