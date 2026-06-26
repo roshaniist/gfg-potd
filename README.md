@@ -39,3 +39,4 @@
 | 37 | [Rat Maze With Multiple Jumps](./GeeksForGeeks/Medium/Rat%20Maze%20With%20Multiple%20Jumps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1) | Medium | 24 Jun 2026 | 09:21 am |
 | 38 | [Number of ZigZag Arrays II](./LeetCode/Hard/Number%20of%20ZigZag%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard | 24 Jun 2026 | 03:31 pm |
 | 39 | [N-Digit Numbers with Increasing Digits](./GeeksForGeeks/Medium/N-Digit%20Numbers%20with%20Increasing%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1) | Medium | 25 Jun 2026 | 06:36 pm |
+| 40 | [Count Matching Subsequences](./GeeksForGeeks/Medium/Count%20Matching%20Subsequences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | Medium | 26 Jun 2026 | 03:21 pm |
