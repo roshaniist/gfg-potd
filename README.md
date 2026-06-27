@@ -40,3 +40,4 @@
 | 38 | [Number of ZigZag Arrays II](./LeetCode/Hard/Number%20of%20ZigZag%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard | 24 Jun 2026 | 03:31 pm |
 | 39 | [N-Digit Numbers with Increasing Digits](./GeeksForGeeks/Medium/N-Digit%20Numbers%20with%20Increasing%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1) | Medium | 25 Jun 2026 | 06:36 pm |
 | 40 | [Count Matching Subsequences](./GeeksForGeeks/Medium/Count%20Matching%20Subsequences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | Medium | 26 Jun 2026 | 03:21 pm |
+| 41 | [Count Subarrays With Majority Element II](./LeetCode/Hard/Count%20Subarrays%20With%20Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Hard | 27 Jun 2026 | 08:35 am |

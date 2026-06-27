@@ -1,13 +1,13 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-06-26",
+  "totalSolved": 41,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-06-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
     "medium": 28,
-    "hard": 5,
+    "hard": 6,
     "basic": 0
   },
   "syncedProblems": {
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Rat_Maze_With_Multiple_Jumps": true,
     "LeetCode_Number_of_ZigZag_Arrays_II": true,
     "GeeksForGeeks_N-Digit_Numbers_with_Increasing_Digits": true,
-    "GeeksForGeeks_Count_Matching_Subsequences": true
+    "GeeksForGeeks_Count_Matching_Subsequences": true,
+    "LeetCode_Count_Subarrays_With_Majority_Element_II": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -73,9 +74,10 @@
     "2026-06-23": 2,
     "2026-06-24": 2,
     "2026-06-25": 1,
-    "2026-06-26": 1
+    "2026-06-26": 1,
+    "2026-06-27": 1
   },
   "todayProblems": [
-    "Count Matching Subsequences"
+    "Count Subarrays With Majority Element II"
   ]
 }
