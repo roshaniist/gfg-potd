@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 28,
+    "medium": 29,
     "hard": 6,
     "basic": 0
   },
@@ -51,7 +51,8 @@
     "LeetCode_Number_of_ZigZag_Arrays_II": true,
     "GeeksForGeeks_N-Digit_Numbers_with_Increasing_Digits": true,
     "GeeksForGeeks_Count_Matching_Subsequences": true,
-    "LeetCode_Count_Subarrays_With_Majority_Element_II": true
+    "LeetCode_Count_Subarrays_With_Majority_Element_II": true,
+    "GeeksForGeeks_Ways_to_Tile_the_Floor": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -75,9 +76,10 @@
     "2026-06-24": 2,
     "2026-06-25": 1,
     "2026-06-26": 1,
-    "2026-06-27": 1
+    "2026-06-27": 2
   },
   "todayProblems": [
-    "Count Subarrays With Majority Element II"
+    "Count Subarrays With Majority Element II",
+    "Ways to Tile the Floor"
   ]
 }
