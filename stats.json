@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-06-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 30,
+    "medium": 31,
     "hard": 6,
     "basic": 0
   },
@@ -53,7 +53,8 @@
     "GeeksForGeeks_Count_Matching_Subsequences": true,
     "LeetCode_Count_Subarrays_With_Majority_Element_II": true,
     "GeeksForGeeks_Ways_to_Tile_the_Floor": true,
-    "GeeksForGeeks_k_Times_Appearing_Adjacent_Two_1's": true
+    "GeeksForGeeks_k_Times_Appearing_Adjacent_Two_1's": true,
+    "LeetCode_Maximum_Element_After_Decreasing_and_Rearranging": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -78,9 +79,10 @@
     "2026-06-25": 1,
     "2026-06-26": 1,
     "2026-06-27": 2,
-    "2026-06-28": 1
+    "2026-06-28": 2
   },
   "todayProblems": [
-    "k Times Appearing Adjacent Two 1's"
+    "k Times Appearing Adjacent Two 1's",
+    "Maximum Element After Decreasing and Rearranging"
   ]
 }
