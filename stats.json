@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-06-30",
-  "todayCount": 3,
+  "totalSolved": 49,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-07-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 33,
+    "medium": 34,
     "hard": 7,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "GeeksForGeeks_Max_Dot_Product_with_0_Insertions": true,
     "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
     "GeeksForGeeks_Minimum_Insert_and_Delete_to_Convert": true,
-    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
+    "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -85,11 +86,10 @@
     "2026-06-27": 2,
     "2026-06-28": 2,
     "2026-06-29": 1,
-    "2026-06-30": 3
+    "2026-06-30": 3,
+    "2026-07-01": 1
   },
   "todayProblems": [
-    "Number of Strings That Appear as Substrings in Word",
-    "Minimum Insert and Delete to Convert",
-    "Number of Substrings Containing All Three Characters"
+    "Max Subarray Sum by Removing At Most One"
   ]
 }
