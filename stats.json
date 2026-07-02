@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
-  "currentStreak": 16,
-  "maxStreak": 16,
-  "lastSyncDate": "2026-07-01",
+  "totalSolved": 50,
+  "currentStreak": 17,
+  "maxStreak": 17,
+  "lastSyncDate": "2026-07-02",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 34,
+    "medium": 35,
     "hard": 7,
     "basic": 0
   },
@@ -59,7 +59,8 @@
     "LeetCode_Number_of_Strings_That_Appear_as_Substrings_in_Word": true,
     "GeeksForGeeks_Minimum_Insert_and_Delete_to_Convert": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
-    "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true
+    "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true,
+    "LeetCode_Find_the_Safest_Path_in_a_Grid": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -87,9 +88,10 @@
     "2026-06-28": 2,
     "2026-06-29": 1,
     "2026-06-30": 3,
-    "2026-07-01": 1
+    "2026-07-01": 1,
+    "2026-07-02": 1
   },
   "todayProblems": [
-    "Max Subarray Sum by Removing At Most One"
+    "Find the Safest Path in a Grid"
   ]
 }
