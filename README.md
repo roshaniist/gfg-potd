@@ -50,3 +50,4 @@
 | 48 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 30 Jun 2026 | 08:00 pm |
 | 49 | [Max Subarray Sum by Removing At Most One](./GeeksForGeeks/Medium/Max%20Subarray%20Sum%20by%20Removing%20At%20Most%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1) | Medium | 01 Jul 2026 | 05:38 pm |
 | 50 | [Find the Safest Path in a Grid](./LeetCode/Medium/Find%20the%20Safest%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 02 Jul 2026 | 09:26 pm |
+| 51 | [Network Recovery Pathways](./LeetCode/Hard/Network%20Recovery%20Pathways) | [LeetCode](https://leetcode.com/problems/network-recovery-pathways/) | Hard | 03 Jul 2026 | 10:07 pm |
