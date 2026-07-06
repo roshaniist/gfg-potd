@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
-  "currentStreak": 18,
+  "totalSolved": 52,
+  "currentStreak": 1,
   "maxStreak": 18,
-  "lastSyncDate": "2026-07-03",
+  "lastSyncDate": "2026-07-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 35,
+    "medium": 36,
     "hard": 8,
     "basic": 0
   },
@@ -61,7 +61,8 @@
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true,
     "LeetCode_Find_the_Safest_Path_in_a_Grid": true,
-    "LeetCode_Network_Recovery_Pathways": true
+    "LeetCode_Network_Recovery_Pathways": true,
+    "GeeksForGeeks_Max_Sum_Path_in_Two_Arrays": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -91,9 +92,10 @@
     "2026-06-30": 3,
     "2026-07-01": 1,
     "2026-07-02": 1,
-    "2026-07-03": 1
+    "2026-07-03": 1,
+    "2026-07-06": 1
   },
   "todayProblems": [
-    "Network Recovery Pathways"
+    "Max Sum Path in Two Arrays"
   ]
 }
