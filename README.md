@@ -52,3 +52,4 @@
 | 50 | [Find the Safest Path in a Grid](./LeetCode/Medium/Find%20the%20Safest%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 02 Jul 2026 | 09:26 pm |
 | 51 | [Network Recovery Pathways](./LeetCode/Hard/Network%20Recovery%20Pathways) | [LeetCode](https://leetcode.com/problems/network-recovery-pathways/) | Hard | 03 Jul 2026 | 10:07 pm |
 | 52 | [Max Sum Path in Two Arrays](./GeeksForGeeks/Medium/Max%20Sum%20Path%20in%20Two%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | Medium | 06 Jul 2026 | 12:03 pm |
+| 53 | [Remove Covered Intervals](./LeetCode/Medium/Remove%20Covered%20Intervals) | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | Medium | 06 Jul 2026 | 12:05 pm |
