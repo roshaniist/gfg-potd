@@ -53,3 +53,4 @@
 | 51 | [Network Recovery Pathways](./LeetCode/Hard/Network%20Recovery%20Pathways) | [LeetCode](https://leetcode.com/problems/network-recovery-pathways/) | Hard | 03 Jul 2026 | 10:07 pm |
 | 52 | [Max Sum Path in Two Arrays](./GeeksForGeeks/Medium/Max%20Sum%20Path%20in%20Two%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | Medium | 06 Jul 2026 | 12:03 pm |
 | 53 | [Remove Covered Intervals](./LeetCode/Medium/Remove%20Covered%20Intervals) | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | Medium | 06 Jul 2026 | 12:05 pm |
+| 54 | [Largest Unblocked Submatrix](./GeeksForGeeks/Medium/Largest%20Unblocked%20Submatrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-unblocked-submatrix/1) | Medium | 07 Jul 2026 | 12:30 pm |
