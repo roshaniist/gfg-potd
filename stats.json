@@ -1,12 +1,12 @@
 {
-  "totalSolved": 56,
+  "totalSolved": 57,
   "currentStreak": 3,
   "maxStreak": 18,
   "lastSyncDate": "2026-07-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 39,
+    "medium": 40,
     "hard": 8,
     "basic": 0
   },
@@ -66,7 +66,8 @@
     "LeetCode_Remove_Covered_Intervals": true,
     "GeeksForGeeks_Largest_Unblocked_Submatrix": true,
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true,
-    "GeeksForGeeks_Towers_Reaching_Both_Stations": true
+    "GeeksForGeeks_Towers_Reaching_Both_Stations": true,
+    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -99,9 +100,10 @@
     "2026-07-03": 1,
     "2026-07-06": 2,
     "2026-07-07": 2,
-    "2026-07-08": 1
+    "2026-07-08": 2
   },
   "todayProblems": [
-    "Towers Reaching Both Stations"
+    "Towers Reaching Both Stations",
+    "Concatenate Non-Zero Digits and Multiply by Sum II"
   ]
 }

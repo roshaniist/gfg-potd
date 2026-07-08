@@ -56,3 +56,4 @@
 | 54 | [Largest Unblocked Submatrix](./GeeksForGeeks/Medium/Largest%20Unblocked%20Submatrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-unblocked-submatrix/1) | Medium | 07 Jul 2026 | 12:30 pm |
 | 55 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 07 Jul 2026 | 08:21 pm |
 | 56 | [Towers Reaching Both Stations](./GeeksForGeeks/Medium/Towers%20Reaching%20Both%20Stations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-island--170646/1) | Medium | 08 Jul 2026 | 05:37 pm |
+| 57 | [Concatenate Non-Zero Digits and Multiply by Sum II](./LeetCode/Medium/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 08 Jul 2026 | 11:06 pm |
