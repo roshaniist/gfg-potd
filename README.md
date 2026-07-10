@@ -58,3 +58,4 @@
 | 56 | [Towers Reaching Both Stations](./GeeksForGeeks/Medium/Towers%20Reaching%20Both%20Stations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-island--170646/1) | Medium | 08 Jul 2026 | 05:37 pm |
 | 57 | [Concatenate Non-Zero Digits and Multiply by Sum II](./LeetCode/Medium/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | 08 Jul 2026 | 11:06 pm |
 | 58 | [Count Pairs Divisible By K](./GeeksForGeeks/Medium/Count%20Pairs%20Divisible%20By%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | Medium | 09 Jul 2026 | 02:22 pm |
+| 59 | [Ways to Express as Sum of Consecutives](./GeeksForGeeks/Medium/Ways%20to%20Express%20as%20Sum%20of%20Consecutives) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1) | Medium | 10 Jul 2026 | 08:06 pm |
