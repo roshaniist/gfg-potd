@@ -1,0 +1,23 @@
+# Container With Most Water
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)
+
+## Solved On
+11 Jul 2026 at 01:48 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/container-with-most-water0535/1">Container With Most Water</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 14pt;">Given an array&nbsp;<strong>arr[]&nbsp;</strong>of non-negative integers, where each element <strong>arr[i]</strong>&nbsp;represents the height of the <strong>vertical lines,&nbsp;</strong>find the <strong>maximum amount of water</strong> that can be contained between any two lines, together with the x-axis.</span></p>
+<p><span style="font-size: 14pt;"><strong>Note:</strong> In the case of a single vertical line it will not be able to hold water.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [1, 5, 4, 3]
+<strong>Output: </strong>6<strong>
+Explanation: </strong>5 and 3 are 2 distance apart. So the size of the base is 2. Height of container = min(5, 3) = 3. So, total area to hold water = 3 * 2 = 6.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [3, 1, 2, 4, 5]
+<strong>Output: </strong>12<strong>
+Explanation: </strong>5 and 3 are 4 distance apart. So the size of the base is 4. Height of container = min(5, 3) = 3. So, total area to hold water = 4 * 3 = 12.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: arr[] = [2, 1, 8, 6, 4, 6, 5, 5]<br><strong>Output</strong>: 25 <br><strong>Explanation</strong>: 8 and 5 are 5 distance apart. So the size of the base is 5. Height of container = min(8, 5) = 5. So, the total area to hold water = 5 * 5 = 25.</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>5</sup><br>0 ≤ arr[i] ≤ 10<sup>4</sup></span></p>
