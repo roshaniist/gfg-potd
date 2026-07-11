@@ -1,12 +1,12 @@
 {
-  "totalSolved": 61,
+  "totalSolved": 62,
   "currentStreak": 6,
   "maxStreak": 18,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 43,
+    "medium": 44,
     "hard": 9,
     "basic": 0
   },
@@ -71,7 +71,8 @@
     "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
     "GeeksForGeeks_Ways_to_Express_as_Sum_of_Consecutives": true,
     "LeetCode_Path_Existence_Queries_in_a_Graph_II": true,
-    "LeetCode_Container_With_Most_Water": true
+    "LeetCode_Container_With_Most_Water": true,
+    "GeeksForGeeks_Longest_Possible_Route_in_a_Matrix_with_Hurdles": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -107,9 +108,10 @@
     "2026-07-08": 2,
     "2026-07-09": 1,
     "2026-07-10": 2,
-    "2026-07-11": 1
+    "2026-07-11": 2
   },
   "todayProblems": [
-    "Container With Most Water"
+    "Container With Most Water",
+    "Longest Possible Route in a Matrix with Hurdles"
   ]
 }
