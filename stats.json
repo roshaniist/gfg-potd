@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
-  "currentStreak": 5,
+  "totalSolved": 61,
+  "currentStreak": 6,
   "maxStreak": 18,
-  "lastSyncDate": "2026-07-10",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-11",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 42,
+    "medium": 43,
     "hard": 9,
     "basic": 0
   },
@@ -70,7 +70,8 @@
     "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II": true,
     "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
     "GeeksForGeeks_Ways_to_Express_as_Sum_of_Consecutives": true,
-    "LeetCode_Path_Existence_Queries_in_a_Graph_II": true
+    "LeetCode_Path_Existence_Queries_in_a_Graph_II": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -105,10 +106,10 @@
     "2026-07-07": 2,
     "2026-07-08": 2,
     "2026-07-09": 1,
-    "2026-07-10": 2
+    "2026-07-10": 2,
+    "2026-07-11": 1
   },
   "todayProblems": [
-    "Ways to Express as Sum of Consecutives",
-    "Path Existence Queries in a Graph II"
+    "Container With Most Water"
   ]
 }
