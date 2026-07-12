@@ -1,12 +1,12 @@
 {
-  "totalSolved": 64,
-  "currentStreak": 6,
+  "totalSolved": 65,
+  "currentStreak": 7,
   "maxStreak": 18,
-  "lastSyncDate": "2026-07-11",
-  "todayCount": 4,
+  "lastSyncDate": "2026-07-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 45,
+    "medium": 46,
     "hard": 9,
     "basic": 0
   },
@@ -74,7 +74,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "GeeksForGeeks_Longest_Possible_Route_in_a_Matrix_with_Hurdles": true,
     "GeeksForGeeks_Container_With_Most_Water": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
+    "GeeksForGeeks_Max_Amount_by_Selling_K_Tickets": true
   },
   "activityHistory": {
     "2026-06-05": 5,
@@ -110,11 +111,10 @@
     "2026-07-08": 2,
     "2026-07-09": 1,
     "2026-07-10": 2,
-    "2026-07-11": 4
+    "2026-07-11": 4,
+    "2026-07-12": 1
   },
   "todayProblems": [
-    "Container With Most Water",
-    "Longest Possible Route in a Matrix with Hurdles",
-    "Max Sum Subarray of size K"
+    "Max Amount by Selling K Tickets"
   ]
 }
