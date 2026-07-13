@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 0,
+    "medium": 1,
     "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Rearrange_the_Array": true
+    "GeeksForGeeks_Rearrange_the_Array": true,
+    "LeetCode_Sequential_Digits": true
   },
   "activityHistory": {
-    "2026-07-13": 1
+    "2026-07-13": 2
   },
   "todayProblems": [
-    "Rearrange the Array"
+    "Rearrange the Array",
+    "Sequential Digits"
   ]
 }

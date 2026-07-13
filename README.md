@@ -65,3 +65,4 @@
 | 63 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 11 Jul 2026 | 06:54 pm |
 | 64 | [Max Amount by Selling K Tickets](./GeeksForGeeks/Medium/Max%20Amount%20by%20Selling%20K%20Tickets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ticket-sellers3241/1) | Medium | 12 Jul 2026 | 09:26 am |
 | 65 | [Rearrange the Array](./GeeksForGeeks/Hard/Rearrange%20the%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rearrange-the-array-1639032648/1?_gl=1*rpfflv*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwmdLSBhANEiwAkREMN4FzAObJ2VLR-qIJ4L04_Ns18EBkID_UM5th98f6t9vMn1CSx-sKbhoCwb0QAvD_BwE&gbraid=0AAAAAC9yBkCr1sWDm-MLcqvAy4DQmY0zP) | Hard | 13 Jul 2026 | 06:54 pm |
+| 66 | [Sequential Digits](./LeetCode/Medium/Sequential%20Digits) | [LeetCode](https://leetcode.com/problems/sequential-digits/) | Medium | 13 Jul 2026 | 06:57 pm |
