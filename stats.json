@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-07-15",
+  "totalSolved": 6,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-07-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 3,
+    "medium": 4,
     "hard": 2,
     "basic": 0
   },
@@ -15,14 +15,16 @@
     "LeetCode_Sequential_Digits": true,
     "GeeksForGeeks_Smallest_Non-Zero_Number": true,
     "LeetCode_Find_the_Number_of_Subsequences_With_Equal_GCD": true,
-    "GeeksForGeeks_Longest_Bitonic_Subarray": true
+    "GeeksForGeeks_Longest_Bitonic_Subarray": true,
+    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true
   },
   "activityHistory": {
     "2026-07-13": 2,
     "2026-07-14": 2,
-    "2026-07-15": 1
+    "2026-07-15": 1,
+    "2026-07-16": 1
   },
   "todayProblems": [
-    "Longest Bitonic Subarray"
+    "Numbers with Given Digit Sum"
   ]
 }
