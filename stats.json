@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-07-18",
+  "totalSolved": 9,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-07-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 5,
+    "medium": 6,
     "hard": 3,
     "basic": 0
   },
@@ -18,7 +18,8 @@
     "GeeksForGeeks_Longest_Bitonic_Subarray": true,
     "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
     "LeetCode_Sorted_GCD_Pair_Queries": true,
-    "GeeksForGeeks_Cut_Matrix": true
+    "GeeksForGeeks_Cut_Matrix": true,
+    "GeeksForGeeks_Mountain_Subarray_Queries": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -26,9 +27,10 @@
     "2026-07-15": 1,
     "2026-07-16": 1,
     "2026-07-17": 1,
-    "2026-07-18": 1
+    "2026-07-18": 1,
+    "2026-07-19": 1
   },
   "todayProblems": [
-    "Cut Matrix"
+    "Mountain Subarray Queries"
   ]
 }
