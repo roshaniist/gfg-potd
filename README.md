@@ -73,3 +73,4 @@
 | 71 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 17 Jul 2026 | 08:04 pm |
 | 72 | [Cut Matrix](./GeeksForGeeks/Medium/Cut%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cut-matrix/1) | Medium | 18 Jul 2026 | 03:43 pm |
 | 73 | [Mountain Subarray Queries](./GeeksForGeeks/Medium/Mountain%20Subarray%20Queries) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mountain-subarray-problem/1?_gl=1*9tdxrh*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw6_HSBhCpARIsANvVltYh8lWfoTaBnyOeSpn6B94rHpswiuNLy5e8lRufTI-zjoCgiEk3Gx8aAkCwEALw_wcB&gbraid=0AAAAAC9yBkCNIgOv8MF38r3Dcx9UIU7C6) | Medium | 19 Jul 2026 | 03:06 pm |
+| 74 | [Maximum Reachable Index Difference](./GeeksForGeeks/Medium/Maximum%20Reachable%20Index%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-reachable-index-difference/1) | Medium | 21 Jul 2026 | 12:11 am |
