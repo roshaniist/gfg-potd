@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
-  "currentStreak": 1,
+  "totalSolved": 11,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-07-21",
+  "lastSyncDate": "2026-07-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 7,
+    "medium": 8,
     "hard": 3,
     "basic": 0
   },
@@ -20,7 +20,8 @@
     "LeetCode_Sorted_GCD_Pair_Queries": true,
     "GeeksForGeeks_Cut_Matrix": true,
     "GeeksForGeeks_Mountain_Subarray_Queries": true,
-    "GeeksForGeeks_Maximum_Reachable_Index_Difference": true
+    "GeeksForGeeks_Maximum_Reachable_Index_Difference": true,
+    "GeeksForGeeks_Minimum_Deletions_to_Make_Sorted": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -30,9 +31,10 @@
     "2026-07-17": 1,
     "2026-07-18": 1,
     "2026-07-19": 1,
-    "2026-07-21": 1
+    "2026-07-21": 1,
+    "2026-07-22": 1
   },
   "todayProblems": [
-    "Maximum Reachable Index Difference"
+    "Minimum Deletions to Make Sorted"
   ]
 }
