@@ -76,3 +76,4 @@
 | 74 | [Maximum Reachable Index Difference](./GeeksForGeeks/Medium/Maximum%20Reachable%20Index%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-reachable-index-difference/1) | Medium | 21 Jul 2026 | 12:11 am |
 | 75 | [Minimum Deletions to Make Sorted](./GeeksForGeeks/Medium/Minimum%20Deletions%20to%20Make%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1) | Medium | 22 Jul 2026 | 10:01 am |
 | 76 | [Check Preorder of BST](./GeeksForGeeks/Medium/Check%20Preorder%20of%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1) | Medium | 23 Jul 2026 | 10:08 am |
+| 77 | [Longest Consecutive Path in Binary tree](./GeeksForGeeks/Medium/Longest%20Consecutive%20Path%20in%20Binary%20tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-sequence-in-binary-tree/1) | Medium | 24 Jul 2026 | 10:51 am |
