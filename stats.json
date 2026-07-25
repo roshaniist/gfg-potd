@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 4,
+  "totalSolved": 14,
+  "currentStreak": 5,
   "maxStreak": 7,
-  "lastSyncDate": "2026-07-24",
+  "lastSyncDate": "2026-07-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 10,
+    "medium": 11,
     "hard": 3,
     "basic": 0
   },
@@ -23,7 +23,8 @@
     "GeeksForGeeks_Maximum_Reachable_Index_Difference": true,
     "GeeksForGeeks_Minimum_Deletions_to_Make_Sorted": true,
     "GeeksForGeeks_Check_Preorder_of_BST": true,
-    "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true
+    "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true,
+    "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -36,9 +37,10 @@
     "2026-07-21": 1,
     "2026-07-22": 1,
     "2026-07-23": 1,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "Longest Consecutive Path in Binary tree"
+    "Max Sum Square Sub-Matrix of Size k"
   ]
 }
