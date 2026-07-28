@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 5,
+  "totalSolved": 15,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-07-25",
+  "lastSyncDate": "2026-07-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 11,
+    "medium": 12,
     "hard": 3,
     "basic": 0
   },
@@ -24,7 +24,8 @@
     "GeeksForGeeks_Minimum_Deletions_to_Make_Sorted": true,
     "GeeksForGeeks_Check_Preorder_of_BST": true,
     "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true,
-    "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true
+    "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true,
+    "GeeksForGeeks_Shortest_Path_in_1-2_Graph": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -38,9 +39,10 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 1
+    "2026-07-25": 1,
+    "2026-07-28": 1
   },
   "todayProblems": [
-    "Max Sum Square Sub-Matrix of Size k"
+    "Shortest Path in 1-2 Graph"
   ]
 }
