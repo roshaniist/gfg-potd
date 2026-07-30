@@ -79,3 +79,4 @@
 | 77 | [Longest Consecutive Path in Binary tree](./GeeksForGeeks/Medium/Longest%20Consecutive%20Path%20in%20Binary%20tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-sequence-in-binary-tree/1) | Medium | 24 Jul 2026 | 10:51 am |
 | 78 | [Max Sum Square Sub-Matrix of Size k](./GeeksForGeeks/Medium/Max%20Sum%20Square%20Sub-Matrix%20of%20Size%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/coins-of-geekland--141631/1) | Medium | 25 Jul 2026 | 09:20 am |
 | 79 | [Shortest Path in 1-2 Graph](./GeeksForGeeks/Medium/Shortest%20Path%20in%201-2%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-of-nodes1147/1) | Medium | 28 Jul 2026 | 10:09 am |
+| 80 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 11:46 am |
