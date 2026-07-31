@@ -1,13 +1,13 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 1,
+  "totalSolved": 17,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-07-30",
+  "lastSyncDate": "2026-07-31",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 13,
-    "hard": 3,
+    "hard": 4,
     "basic": 0
   },
   "syncedProblems": {
@@ -26,7 +26,8 @@
     "GeeksForGeeks_Longest_Consecutive_Path_in_Binary_tree": true,
     "GeeksForGeeks_Max_Sum_Square_Sub-Matrix_of_Size_k": true,
     "GeeksForGeeks_Shortest_Path_in_1-2_Graph": true,
-    "GeeksForGeeks_Maximum_Subset_XOR": true
+    "GeeksForGeeks_Maximum_Subset_XOR": true,
+    "GeeksForGeeks_Subsets_with_Products_of_Distinct_Primes": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -42,9 +43,10 @@
     "2026-07-24": 1,
     "2026-07-25": 1,
     "2026-07-28": 1,
-    "2026-07-30": 1
+    "2026-07-30": 1,
+    "2026-07-31": 1
   },
   "todayProblems": [
-    "Maximum Subset XOR"
+    "Subsets with Products of Distinct Primes"
   ]
 }
