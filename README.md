@@ -82,3 +82,4 @@
 | 80 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 11:46 am |
 | 81 | [Subsets with Products of Distinct Primes](./GeeksForGeeks/Hard/Subsets%20with%20Products%20of%20Distinct%20Primes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-of-subsets/1) | Hard | 31 Jul 2026 | 09:39 am |
 | 82 | [Max After m Range Increments](./GeeksForGeeks/Medium/Max%20After%20m%20Range%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-value-after-m-range-operation4300/1) | Medium | 01 Aug 2026 | 10:48 pm |
+| 83 | [Sequences where Adjacent Divide](./GeeksForGeeks/Medium/Sequences%20where%20Adjacent%20Divide) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-in-array2138/1) | Medium | 02 Aug 2026 | 02:32 am |
