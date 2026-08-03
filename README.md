@@ -84,3 +84,4 @@
 | 82 | [Max After m Range Increments](./GeeksForGeeks/Medium/Max%20After%20m%20Range%20Increments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-value-after-m-range-operation4300/1) | Medium | 01 Aug 2026 | 10:48 pm |
 | 83 | [Sequences where Adjacent Divide](./GeeksForGeeks/Medium/Sequences%20where%20Adjacent%20Divide) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-in-array2138/1) | Medium | 02 Aug 2026 | 02:32 am |
 | 84 | [Max Sum Subarray of Size at least K](./GeeksForGeeks/Medium/Max%20Sum%20Subarray%20of%20Size%20at%20least%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1) | Medium | 03 Aug 2026 | 08:03 am |
+| 85 | [Pairs with Less Than K Diff](./GeeksForGeeks/Easy/Pairs%20with%20Less%20Than%20K%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1) | Easy | 04 Aug 2026 | 12:22 am |
