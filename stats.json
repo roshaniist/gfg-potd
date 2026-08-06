@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-05",
+  "totalSolved": 23,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-08-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 16,
+    "medium": 17,
     "hard": 5,
     "basic": 0
   },
@@ -32,7 +32,8 @@
     "GeeksForGeeks_Sequences_where_Adjacent_Divide": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
-    "GeeksForGeeks_Subarrays_with_Sum_in_Range": true
+    "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
+    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -54,9 +55,10 @@
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-05": 1
+    "2026-08-05": 1,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "Subarrays with Sum in Range"
+    "Minimum Increment or Double Operations to Convert"
   ]
 }
