@@ -87,3 +87,4 @@
 | 85 | [Pairs with Less Than K Diff](./GeeksForGeeks/Easy/Pairs%20with%20Less%20Than%20K%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1) | Easy | 04 Aug 2026 | 12:22 am |
 | 86 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 05 Aug 2026 | 10:19 am |
 | 87 | [Minimum Increment or Double Operations to Convert](./GeeksForGeeks/Medium/Minimum%20Increment%20or%20Double%20Operations%20to%20Convert) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1) | Medium | 06 Aug 2026 | 10:01 am |
+| 88 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 07 Aug 2026 | 09:44 am |
