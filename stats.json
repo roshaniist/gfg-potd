@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-08-08",
+  "totalSolved": 26,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-08-09",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 19,
+    "medium": 20,
     "hard": 5,
     "basic": 0
   },
@@ -35,7 +35,8 @@
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
     "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
-    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
+    "GeeksForGeeks_Largest_Zigzag_Sequence": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -60,9 +61,10 @@
     "2026-08-05": 1,
     "2026-08-06": 1,
     "2026-08-07": 1,
-    "2026-08-08": 1
+    "2026-08-08": 1,
+    "2026-08-09": 1
   },
   "todayProblems": [
-    "Min Edge Movements to Connect a Graph"
+    "Largest Zigzag Sequence"
   ]
 }
