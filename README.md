@@ -90,3 +90,4 @@
 | 88 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 07 Aug 2026 | 09:44 am |
 | 89 | [Min Edge Movements to Connect a Graph](./GeeksForGeeks/Medium/Min%20Edge%20Movements%20to%20Connect%20a%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/connecting-the-graph/1) | Medium | 08 Aug 2026 | 09:41 am |
 | 90 | [Largest Zigzag Sequence](./GeeksForGeeks/Medium/Largest%20Zigzag%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | Medium | 09 Aug 2026 | 10:03 am |
+| 91 | [Longest Path in a Directed Acyclic Graph](./GeeksForGeeks/Hard/Longest%20Path%20in%20a%20Directed%20Acyclic%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-path-in-a-directed-acyclic-graph/1) | Hard | 13 Aug 2026 | 10:26 am |
