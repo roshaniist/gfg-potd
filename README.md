@@ -92,3 +92,4 @@
 | 90 | [Largest Zigzag Sequence](./GeeksForGeeks/Medium/Largest%20Zigzag%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | Medium | 09 Aug 2026 | 10:03 am |
 | 91 | [Longest Path in a Directed Acyclic Graph](./GeeksForGeeks/Hard/Longest%20Path%20in%20a%20Directed%20Acyclic%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-path-in-a-directed-acyclic-graph/1) | Hard | 13 Aug 2026 | 10:26 am |
 | 92 | [Subset Sum on Generated Sequence](./GeeksForGeeks/Medium/Subset%20Sum%20on%20Generated%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1) | Medium | 14 Aug 2026 | 09:28 am |
+| 93 | [Numbers Without d as Digit](./GeeksForGeeks/Medium/Numbers%20Without%20d%20as%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | Medium | 15 Aug 2026 | 11:15 am |
