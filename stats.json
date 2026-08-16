@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 3,
+  "totalSolved": 30,
+  "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-15",
+  "lastSyncDate": "2026-08-17",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 22,
+    "medium": 23,
     "hard": 6,
     "basic": 0
   },
@@ -39,7 +39,8 @@
     "GeeksForGeeks_Largest_Zigzag_Sequence": true,
     "GeeksForGeeks_Longest_Path_in_a_Directed_Acyclic_Graph": true,
     "GeeksForGeeks_Subset_Sum_on_Generated_Sequence": true,
-    "GeeksForGeeks_Numbers_Without_d_as_Digit": true
+    "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
+    "GeeksForGeeks_Snake_and_Ladder_Problem": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -68,9 +69,10 @@
     "2026-08-09": 1,
     "2026-08-13": 1,
     "2026-08-14": 1,
-    "2026-08-15": 1
+    "2026-08-15": 1,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Numbers Without d as Digit"
+    "Snake and Ladder Problem"
   ]
 }
