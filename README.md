@@ -94,3 +94,4 @@
 | 92 | [Subset Sum on Generated Sequence](./GeeksForGeeks/Medium/Subset%20Sum%20on%20Generated%20Sequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1) | Medium | 14 Aug 2026 | 09:28 am |
 | 93 | [Numbers Without d as Digit](./GeeksForGeeks/Medium/Numbers%20Without%20d%20as%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | Medium | 15 Aug 2026 | 11:15 am |
 | 94 | [Snake and Ladder Problem](./GeeksForGeeks/Medium/Snake%20and%20Ladder%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) | Medium | 17 Aug 2026 | 12:21 am |
+| 95 | [Secret Cipher](./GeeksForGeeks/Medium/Secret%20Cipher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/secret-cipher--141631/1) | Medium | 18 Aug 2026 | 12:55 pm |
