@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 2,
+  "totalSolved": 32,
+  "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 24,
+    "medium": 25,
     "hard": 6,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "GeeksForGeeks_Subset_Sum_on_Generated_Sequence": true,
     "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
     "GeeksForGeeks_Snake_and_Ladder_Problem": true,
-    "GeeksForGeeks_Secret_Cipher": true
+    "GeeksForGeeks_Secret_Cipher": true,
+    "GeeksForGeeks_Node_and_Ancestor_Max_Diff": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -72,9 +73,10 @@
     "2026-08-14": 1,
     "2026-08-15": 1,
     "2026-08-17": 1,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-20": 1
   },
   "todayProblems": [
-    "Secret Cipher"
+    "Node and Ancestor Max Diff"
   ]
 }

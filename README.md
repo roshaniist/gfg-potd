@@ -95,3 +95,4 @@
 | 93 | [Numbers Without d as Digit](./GeeksForGeeks/Medium/Numbers%20Without%20d%20as%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | Medium | 15 Aug 2026 | 11:15 am |
 | 94 | [Snake and Ladder Problem](./GeeksForGeeks/Medium/Snake%20and%20Ladder%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) | Medium | 17 Aug 2026 | 12:21 am |
 | 95 | [Secret Cipher](./GeeksForGeeks/Medium/Secret%20Cipher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/secret-cipher--141631/1) | Medium | 18 Aug 2026 | 12:55 pm |
+| 96 | [Node and Ancestor Max Diff](./GeeksForGeeks/Medium/Node%20and%20Ancestor%20Max%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1) | Medium | 20 Aug 2026 | 10:17 am |
