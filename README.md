@@ -96,3 +96,4 @@
 | 94 | [Snake and Ladder Problem](./GeeksForGeeks/Medium/Snake%20and%20Ladder%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) | Medium | 17 Aug 2026 | 12:21 am |
 | 95 | [Secret Cipher](./GeeksForGeeks/Medium/Secret%20Cipher) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/secret-cipher--141631/1) | Medium | 18 Aug 2026 | 12:55 pm |
 | 96 | [Node and Ancestor Max Diff](./GeeksForGeeks/Medium/Node%20and%20Ancestor%20Max%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1) | Medium | 20 Aug 2026 | 10:17 am |
+| 97 | [Transform String](./GeeksForGeeks/Medium/Transform%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transform-string5648/1) | Medium | 21 Aug 2026 | 11:06 am |
