@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 3,
+  "totalSolved": 35,
+  "currentStreak": 4,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-22",
+  "lastSyncDate": "2026-08-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 26,
+    "medium": 27,
     "hard": 7,
     "basic": 0
   },
@@ -44,7 +44,8 @@
     "GeeksForGeeks_Secret_Cipher": true,
     "GeeksForGeeks_Node_and_Ancestor_Max_Diff": true,
     "GeeksForGeeks_Transform_String": true,
-    "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true
+    "GeeksForGeeks_Number_of_Turns_in_Binary_Tree": true,
+    "GeeksForGeeks_Geek_in_a_Maze": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -78,9 +79,10 @@
     "2026-08-18": 1,
     "2026-08-20": 1,
     "2026-08-21": 1,
-    "2026-08-22": 1
+    "2026-08-22": 1,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Number of Turns in Binary Tree"
+    "Geek in a Maze"
   ]
 }

@@ -98,3 +98,4 @@
 | 96 | [Node and Ancestor Max Diff](./GeeksForGeeks/Medium/Node%20and%20Ancestor%20Max%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1) | Medium | 20 Aug 2026 | 10:17 am |
 | 97 | [Transform String](./GeeksForGeeks/Medium/Transform%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transform-string5648/1) | Medium | 21 Aug 2026 | 11:06 am |
 | 98 | [Number of Turns in Binary Tree](./GeeksForGeeks/Hard/Number%20of%20Turns%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1) | Hard | 22 Aug 2026 | 10:10 am |
+| 99 | [Geek in a Maze](./GeeksForGeeks/Medium/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Medium | 23 Aug 2026 | 07:28 pm |
