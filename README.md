@@ -101,3 +101,4 @@
 | 99 | [Geek in a Maze](./GeeksForGeeks/Medium/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Medium | 23 Aug 2026 | 07:28 pm |
 | 100 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Medium/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Medium | 25 Aug 2026 | 10:30 am |
 | 101 | [Marks from Ranks](./GeeksForGeeks/Medium/Marks%20from%20Ranks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1) | Medium | 30 Aug 2026 | 04:55 pm |
+| 102 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 10:08 am |
