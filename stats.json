@@ -1,12 +1,12 @@
 {
-  "totalSolved": 38,
-  "currentStreak": 2,
+  "totalSolved": 39,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-31",
+  "lastSyncDate": "2026-09-01",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 30,
+    "medium": 31,
     "hard": 7,
     "basic": 0
   },
@@ -48,7 +48,8 @@
     "GeeksForGeeks_Geek_in_a_Maze": true,
     "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
     "GeeksForGeeks_Marks_from_Ranks": true,
-    "GeeksForGeeks_Minimum_Cost_for_n_Characters": true
+    "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
+    "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -86,9 +87,10 @@
     "2026-08-23": 1,
     "2026-08-25": 1,
     "2026-08-30": 1,
-    "2026-08-31": 1
+    "2026-08-31": 1,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Minimum Cost for n Characters"
+    "Count Palindromic Strings with Constraints"
   ]
 }
