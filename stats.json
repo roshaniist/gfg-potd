@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 1,
+  "totalSolved": 41,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-04",
+  "lastSyncDate": "2026-09-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 31,
+    "medium": 32,
     "hard": 7,
     "basic": 0
   },
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Marks_from_Ranks": true,
     "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
-    "GeeksForGeeks_Bird_and_Max_Fruit_Gathering": true
+    "GeeksForGeeks_Bird_and_Max_Fruit_Gathering": true,
+    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -90,9 +91,10 @@
     "2026-08-30": 1,
     "2026-08-31": 1,
     "2026-09-01": 1,
-    "2026-09-04": 1
+    "2026-09-04": 1,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Bird and Max Fruit Gathering"
+    "Longest Subsequence with Adjacent Diff as 1"
   ]
 }
