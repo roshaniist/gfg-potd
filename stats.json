@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
-  "currentStreak": 2,
+  "totalSolved": 42,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-05",
+  "lastSyncDate": "2026-09-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 32,
+    "medium": 33,
     "hard": 7,
     "basic": 0
   },
@@ -51,7 +51,8 @@
     "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
     "GeeksForGeeks_Count_Palindromic_Strings_with_Constraints": true,
     "GeeksForGeeks_Bird_and_Max_Fruit_Gathering": true,
-    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true
+    "GeeksForGeeks_Longest_Subsequence_with_Adjacent_Diff_as_1": true,
+    "GeeksForGeeks_Sum_of_Pairwise_ANDs": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -92,9 +93,10 @@
     "2026-08-31": 1,
     "2026-09-01": 1,
     "2026-09-04": 1,
-    "2026-09-05": 1
+    "2026-09-05": 1,
+    "2026-09-06": 1
   },
   "todayProblems": [
-    "Longest Subsequence with Adjacent Diff as 1"
+    "Sum of Pairwise ANDs"
   ]
 }
