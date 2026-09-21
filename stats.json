@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-17",
+  "lastSyncDate": "2026-09-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 35,
+    "medium": 36,
     "hard": 7,
     "basic": 0
   },
@@ -55,7 +55,8 @@
     "GeeksForGeeks_Sum_of_Pairwise_ANDs": true,
     "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true,
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
-    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true
+    "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
+    "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -100,9 +101,10 @@
     "2026-09-06": 1,
     "2026-09-09": 1,
     "2026-09-12": 1,
-    "2026-09-17": 1
+    "2026-09-17": 1,
+    "2026-09-21": 1
   },
   "todayProblems": [
-    "Min Edge Reversals for Path"
+    "Check Level Anagrams in Binary Trees"
   ]
 }
