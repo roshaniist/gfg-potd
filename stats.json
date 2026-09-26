@@ -1,12 +1,12 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-21",
+  "lastSyncDate": "2026-09-26",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 36,
+    "medium": 37,
     "hard": 7,
     "basic": 0
   },
@@ -56,7 +56,8 @@
     "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true,
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
     "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
-    "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true
+    "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true,
+    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -102,9 +103,10 @@
     "2026-09-09": 1,
     "2026-09-12": 1,
     "2026-09-17": 1,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Check Level Anagrams in Binary Trees"
+    "Minimum Cost Pizza Selection"
   ]
 }
