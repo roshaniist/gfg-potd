@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
-  "currentStreak": 1,
+  "totalSolved": 48,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 37,
+    "medium": 38,
     "hard": 7,
     "basic": 0
   },
@@ -57,7 +57,8 @@
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
     "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
     "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true,
-    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true
+    "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
+    "GeeksForGeeks_Longest_Colored_Path": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -104,9 +105,10 @@
     "2026-09-12": 1,
     "2026-09-17": 1,
     "2026-09-21": 1,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-27": 1
   },
   "todayProblems": [
-    "Minimum Cost Pizza Selection"
+    "Longest Colored Path"
   ]
 }
