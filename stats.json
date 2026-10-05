@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 2,
+  "totalSolved": 49,
+  "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-10-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 38,
+    "medium": 39,
     "hard": 7,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "GeeksForGeeks_Min_Edge_Reversals_for_Path": true,
     "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true,
     "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
-    "GeeksForGeeks_Longest_Colored_Path": true
+    "GeeksForGeeks_Longest_Colored_Path": true,
+    "GeeksForGeeks_Your_Social_Network": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -106,9 +107,10 @@
     "2026-09-17": 1,
     "2026-09-21": 1,
     "2026-09-26": 1,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Longest Colored Path"
+    "Your Social Network"
   ]
 }
