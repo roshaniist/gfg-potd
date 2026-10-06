@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
-  "currentStreak": 1,
+  "totalSolved": 50,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-05",
+  "lastSyncDate": "2026-10-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 39,
+    "medium": 40,
     "hard": 7,
     "basic": 0
   },
@@ -59,7 +59,8 @@
     "GeeksForGeeks_Check_Level_Anagrams_in_Binary_Trees": true,
     "GeeksForGeeks_Minimum_Cost_Pizza_Selection": true,
     "GeeksForGeeks_Longest_Colored_Path": true,
-    "GeeksForGeeks_Your_Social_Network": true
+    "GeeksForGeeks_Your_Social_Network": true,
+    "GeeksForGeeks_Longest_Increasing_Path_in_Matrix": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -108,9 +109,10 @@
     "2026-09-21": 1,
     "2026-09-26": 1,
     "2026-09-27": 1,
-    "2026-10-05": 1
+    "2026-10-05": 1,
+    "2026-10-06": 1
   },
   "todayProblems": [
-    "Your Social Network"
+    "Longest Increasing Path in Matrix"
   ]
 }
