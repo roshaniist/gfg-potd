@@ -114,3 +114,4 @@
 | 112 | [Longest Colored Path](./GeeksForGeeks/Medium/Longest%20Colored%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-colored-path--151454/1) | Medium | 27 Sept 2026 | 01:35 am |
 | 113 | [Your Social Network](./GeeksForGeeks/Medium/Your%20Social%20Network) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/your-social-network0328/1) | Medium | 05 Oct 2026 | 06:52 pm |
 | 114 | [Longest Increasing Path in Matrix](./GeeksForGeeks/Medium/Longest%20Increasing%20Path%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1) | Medium | 06 Oct 2026 | 11:27 am |
+| 115 | [Balancing with Distinct Powers](./GeeksForGeeks/Medium/Balancing%20with%20Distinct%20Powers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/balancing-pan5038/1) | Medium | 10 Oct 2026 | 12:36 am |
