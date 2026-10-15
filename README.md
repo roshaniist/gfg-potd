@@ -116,3 +116,4 @@
 | 114 | [Longest Increasing Path in Matrix](./GeeksForGeeks/Medium/Longest%20Increasing%20Path%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1) | Medium | 06 Oct 2026 | 11:27 am |
 | 115 | [Balancing with Distinct Powers](./GeeksForGeeks/Medium/Balancing%20with%20Distinct%20Powers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/balancing-pan5038/1) | Medium | 10 Oct 2026 | 12:36 am |
 | 116 | [Roll Characters of String](./GeeksForGeeks/Medium/Roll%20Characters%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) | Medium | 14 Oct 2026 | 10:25 am |
+| 117 | [Maximum Without 3 Consecutive Set Bits](./GeeksForGeeks/Medium/Maximum%20Without%203%20Consecutive%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) | Medium | 15 Oct 2026 | 10:38 am |
