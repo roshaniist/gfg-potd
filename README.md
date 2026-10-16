@@ -117,3 +117,4 @@
 | 115 | [Balancing with Distinct Powers](./GeeksForGeeks/Medium/Balancing%20with%20Distinct%20Powers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/balancing-pan5038/1) | Medium | 10 Oct 2026 | 12:36 am |
 | 116 | [Roll Characters of String](./GeeksForGeeks/Medium/Roll%20Characters%20of%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) | Medium | 14 Oct 2026 | 10:25 am |
 | 117 | [Maximum Without 3 Consecutive Set Bits](./GeeksForGeeks/Medium/Maximum%20Without%203%20Consecutive%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) | Medium | 15 Oct 2026 | 10:38 am |
+| 118 | [Successful Binary Searches Irrespective of Pivot](./GeeksForGeeks/Medium/Successful%20Binary%20Searches%20Irrespective%20of%20Pivot) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-always-found/1) | Medium | 16 Oct 2026 | 11:07 am |
