@@ -119,3 +119,4 @@
 | 117 | [Maximum Without 3 Consecutive Set Bits](./GeeksForGeeks/Medium/Maximum%20Without%203%20Consecutive%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) | Medium | 15 Oct 2026 | 10:38 am |
 | 118 | [Successful Binary Searches Irrespective of Pivot](./GeeksForGeeks/Medium/Successful%20Binary%20Searches%20Irrespective%20of%20Pivot) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-always-found/1) | Medium | 16 Oct 2026 | 11:07 am |
 | 119 | [Palindrome with Replacement](./GeeksForGeeks/Medium/Palindrome%20with%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) | Medium | 22 Oct 2026 | 02:20 am |
+| 120 | [Trace Path](./GeeksForGeeks/Medium/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Medium | 24 Oct 2026 | 12:34 am |

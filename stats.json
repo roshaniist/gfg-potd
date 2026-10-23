@@ -1,12 +1,12 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-22",
+  "lastSyncDate": "2026-10-24",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 45,
+    "medium": 46,
     "hard": 7,
     "basic": 0
   },
@@ -65,7 +65,8 @@
     "GeeksForGeeks_Roll_Characters_of_String": true,
     "GeeksForGeeks_Maximum_Without_3_Consecutive_Set_Bits": true,
     "GeeksForGeeks_Successful_Binary_Searches_Irrespective_of_Pivot": true,
-    "GeeksForGeeks_Palindrome_with_Replacement": true
+    "GeeksForGeeks_Palindrome_with_Replacement": true,
+    "GeeksForGeeks_Trace_Path": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -120,9 +121,10 @@
     "2026-10-14": 1,
     "2026-10-15": 1,
     "2026-10-16": 1,
-    "2026-10-22": 1
+    "2026-10-22": 1,
+    "2026-10-24": 1
   },
   "todayProblems": [
-    "Palindrome with Replacement"
+    "Trace Path"
   ]
 }
