@@ -120,3 +120,4 @@
 | 118 | [Successful Binary Searches Irrespective of Pivot](./GeeksForGeeks/Medium/Successful%20Binary%20Searches%20Irrespective%20of%20Pivot) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-always-found/1) | Medium | 16 Oct 2026 | 11:07 am |
 | 119 | [Palindrome with Replacement](./GeeksForGeeks/Medium/Palindrome%20with%20Replacement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) | Medium | 22 Oct 2026 | 02:20 am |
 | 120 | [Trace Path](./GeeksForGeeks/Medium/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Medium | 24 Oct 2026 | 12:34 am |
+| 121 | [Nth in Concatenated Decimal String](./GeeksForGeeks/Medium/Nth%20in%20Concatenated%20Decimal%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1) | Medium | 28 Oct 2026 | 10:52 am |
