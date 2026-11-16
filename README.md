@@ -122,3 +122,4 @@
 | 120 | [Trace Path](./GeeksForGeeks/Medium/Trace%20Path) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/trace-path3840/1) | Medium | 24 Oct 2026 | 12:34 am |
 | 121 | [Nth in Concatenated Decimal String](./GeeksForGeeks/Medium/Nth%20in%20Concatenated%20Decimal%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1) | Medium | 28 Oct 2026 | 10:52 am |
 | 122 | [Largest Sum Cycle](./GeeksForGeeks/Hard/Largest%20Sum%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1) | Hard | 02 Nov 2026 | 11:41 am |
+| 123 | [K-th Missing in Natural Numbers](./GeeksForGeeks/Medium/K-th%20Missing%20in%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1) | Medium | 16 Nov 2026 | 10:54 am |

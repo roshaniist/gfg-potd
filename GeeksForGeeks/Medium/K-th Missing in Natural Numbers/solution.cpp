@@ -1,0 +1,24 @@
+class Solution {
+  public:
+    int findKthSmall(vector<int>& arr, int k) {
+        // code here
+
+        sort(begin(arr), end(arr));
+        int num = 1;
+        int i = 0;
+        int n = arr.size();
+
+        while (i < n && k > 0) {
+
+            if (num == arr[i]) {
+                i++;
+            } else {
+                k--;
+            }
+
+            num++;
+        }
+
+        return num + k - 1;
+    }
+};
