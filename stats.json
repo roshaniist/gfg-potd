@@ -1,12 +1,12 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-11-16",
+  "lastSyncDate": "2026-11-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 48,
+    "medium": 49,
     "hard": 8,
     "basic": 0
   },
@@ -69,7 +69,8 @@
     "GeeksForGeeks_Trace_Path": true,
     "GeeksForGeeks_Nth_in_Concatenated_Decimal_String": true,
     "GeeksForGeeks_Largest_Sum_Cycle": true,
-    "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true
+    "GeeksForGeeks_K-th_Missing_in_Natural_Numbers": true,
+    "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true
   },
   "activityHistory": {
     "2026-07-13": 2,
@@ -128,9 +129,10 @@
     "2026-10-24": 1,
     "2026-10-28": 1,
     "2026-11-02": 1,
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-21": 1
   },
   "todayProblems": [
-    "K-th Missing in Natural Numbers"
+    "Smallest Subarray Sum Greater Than x"
   ]
 }
